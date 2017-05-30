@@ -1,0 +1,19 @@
+{
+    "name": "eqima/sugarapiclient",
+    "description": "A simple Sugar 6 api client",
+    "type": "library",
+    "license": "Apache 2",
+    "authors": [
+    	{
+    		"name": "eqima",
+    		"email": "hasina@eqima.org",
+    		"role": "developper"
+    	}
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "SugarAPI\\": "src/"
+        }
+    }
+}
